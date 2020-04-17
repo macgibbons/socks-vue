@@ -8,5 +8,7 @@ This is a mock product page for a pair of socks.
 - Attribute binding using `v-bind`
 - conditional rendering using `v-if` `v-else` and `v-else-if`
 - list rendering using `v-for`
+- event handling using `v-on` or @
+- class/style binding
 
  
