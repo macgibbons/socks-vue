@@ -6,6 +6,7 @@ This is a mock product page for a pair of socks.
 ## concepts covered 
 - vue instances 
 - Attribute binding using `v-bind`
-- conditional rendering using `v-if` `v-else`
+- conditional rendering using `v-if` `v-else` and `v-else-if`
+- list rendering using `v-for`
 
  
