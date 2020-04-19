@@ -9,6 +9,7 @@ This is a mock product page for a pair of socks.
 - conditional rendering using `v-if` `v-else` and `v-else-if`
 - list rendering using `v-for`
 - event handling using `v-on` or @
-- class/style binding
+- class/style binding 
+- props
 
  
