@@ -11,5 +11,8 @@ This is a mock product page for a pair of socks.
 - event handling using `v-on` or @
 - class/style binding 
 - props
+- event emmiting 
+- form rendering & validation 
+
 
  
